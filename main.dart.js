@@ -30793,7 +30793,7 @@ this.r1()},
 r1(){var s=0,r=A.P(t.H),q=this,p
 var $async$r1=A.Q(function(a,b){if(a===1)return A.M(b,r)
 while(true)switch(s){case 0:s=2
-return A.T(A.aqj(A.fn("https://github.com/Paulkm2006/hust_freshman_class_homepage/raw/refs/heads/main/data.json",0,null)),$async$r1)
+return A.T(A.aqj(A.fn("https://raw.githubusercontent.com/Paulkm2006/hust_freshman_class_homepage/refs/heads/main/data.json",0,null)),$async$r1)
 case 2:p=b
 if(p.b===200)q.aB(new A.a0i(q,B.cn.GD(B.I.el(p.w),null)))
 else throw A.e(A.cV("Failed to load dormitory data"))
