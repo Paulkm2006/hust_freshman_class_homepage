@@ -2,28 +2,28 @@
 	"class_name": "计算机类2407班",
 	"dorms": [
 		{
-			"url": "https://example1.com",
+			"url": "https://paulkm2006.github.io/hust_freshman_dorm_homepage/",
 			"building": "东11舍",
 			"room_no": 317,
 			"members": [
 				{
-					"name": "张三",
-					"student_id": "2018000000",
-					"homepage": "https://exampl2e.com"
+					"name": "刘靖南",
+					"student_id": "U202414720",
+					"homepage": "https://paulkm2006.github.io/hust_freshman_practice/"
 				},
 				{
-					"name": "李四",
-					"student_id": "2018000001",
+					"name": "芦虹成",
+					"student_id": "U202414723",
 					"homepage": "https://example.com"
 				},
 				{
-					"name": "王五",
-					"student_id": "2018000002",
+					"name": "董恒",
+					"student_id": "U202414713",
 					"homepage": "https://example.com"
 				},
 				{
-					"name": "赵六",
-					"student_id": "2018000003",
+					"name": "饶恒瑜",
+					"student_id": "U202414726",
 					"homepage": "https://example.com"
 				}
 			]
