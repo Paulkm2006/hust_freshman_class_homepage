@@ -1,0 +1,59 @@
+{
+	"class_name": "计算机类2407班",
+	"dorms": [
+		{
+			"url": "https://example1.com",
+			"building": "东11舍",
+			"room_no": 317,
+			"members": [
+				{
+					"name": "张三",
+					"student_id": "2018000000",
+					"homepage": "https://exampl2e.com"
+				},
+				{
+					"name": "李四",
+					"student_id": "2018000001",
+					"homepage": "https://example.com"
+				},
+				{
+					"name": "王五",
+					"student_id": "2018000002",
+					"homepage": "https://example.com"
+				},
+				{
+					"name": "赵六",
+					"student_id": "2018000003",
+					"homepage": "https://example.com"
+				}
+			]
+		},
+		{
+			"url": "https://example.com",
+			"building": "东11舍",
+			"room_no": 318,
+			"members": [
+				{
+					"name": "钱七",
+					"student_id": "2018000004",
+					"homepage": "https://example.com"
+				},
+				{
+					"name": "孙八",
+					"student_id": "2018000005",
+					"homepage": "https://example.com"
+				},
+				{
+					"name": "周九",
+					"student_id": "2018000006",
+					"homepage": "https://example.com"
+				},
+				{
+					"name": "吴十",
+					"student_id": "2018000007",
+					"homepage": "https://example.com"
+				}
+			]
+		}
+	]
+}
