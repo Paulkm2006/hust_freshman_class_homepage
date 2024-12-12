@@ -29,6 +29,33 @@
 			]
 		},
 		{
+			"url": "https://3blue1b.github.io/313.github.io/",
+			"building": "东11舍",
+			"room_no": 313,
+			"members": [
+				{
+					"name": "李东豪",
+					"student_id": "U202414718",
+					"homepage": "https://3blue1b.github.io/try.github.io/"
+				},
+				{
+					"name": "万骞翮",
+					"student_id": "U202414730",
+					"homepage": "https://3blue1b.github.io/wqh.github.io/"
+				},
+				{
+					"name": "李炳毅",
+					"student_id": "U202414717",
+					"homepage": "https://eternalsensi.github.io/"
+				},
+				{
+					"name": "黄于藩",
+					"student_id": "U202414715",
+					"homepage": ""
+				}
+			]
+		},
+		{
 			"url": "https://jie-ot.github.io/2407/",
 			"building": "东11舍",
 			"room_no": 315,
