@@ -2,29 +2,90 @@
 	"class_name": "计算机类2407班",
 	"dorms": [
 		{
-			"url": "https://paulkm2006.github.io/hust_freshman_dorm_homepage/",
-			"building": "东11舍",
-			"room_no": 317,
+			"url": "https://yanjiayi959.github.io/604web/",
+			"building": "东9舍",
+			"room_no": 604,
 			"members": [
 				{
-					"name": "刘靖南",
-					"student_id": "U202414720",
-					"homepage": "https://paulkm2006.github.io/hust_freshman_practice/"
+					"name": "汪艺彤",
+					"student_id": "U202414731",
+					"homepage": "https://w-yitong.github.io/My-Personal-Web"
 				},
 				{
-					"name": "芦虹成",
-					"student_id": "U202414723",
-					"homepage": "https://lhc14723.github.io/lhc/"
+					"name": "魏琪玮",
+					"student_id": "U202414733",
+					"homepage": "https://weiqiwei7.github.io/personal-page"
 				},
 				{
-					"name": "董恒",
-					"student_id": "U202414713",
-					"homepage": "https://eternalsensi.github.io/"
+					"name": "燕佳怡",
+					"student_id": "U202414736",
+					"homepage": "https://yanjiayi959.github.io/yanjiayiWeb"
 				},
 				{
-					"name": "饶恒瑜",
-					"student_id": "U202414726",
-					"homepage": "https://henryrao525.github.io/rhy726.github.io/"
+					"name": "唐淼",
+					"student_id": "U202414729",
+					"homepage": "https://tang1661.github.io/Tm"
+				}
+			]
+		},
+		{
+			"url": "https://justin-75.github.io/myWeb/web/",
+			"building": "留学生公寓",
+			"room_no": 1,
+			"members": [
+				{
+					"name": "黄智健",
+					"student_id": "U202414735",
+					"homepage": "https://justin-75.github.io/myWeb/web/"
+				}
+			]
+		},
+		{
+			"url": "https://electricstick8.github.io/Dorm/",
+			"building": "东11舍",
+			"room_no": 311,
+			"members": [
+				{
+					"name": "许家诚",
+					"student_id": "U202490040",
+					"homepage": "https://electricstick8.github.io/index/"
+				},
+				{
+					"name": "刘毅",
+					"student_id": "U202414721",
+					"homepage": "https://lyshlym.github.io/wqjs/"
+				},
+				{
+					"name": "杜柯言",
+					"student_id": "U202414714",
+					"homepage": "https://donldtrumpcn.github.io/dukeyanintro/"
+				}
+			]
+		},
+		{
+			"url": "https://dninelie.github.io/qinshi312/index.html",
+			"building": "东11舍",
+			"room_no": 312,
+			"members": [
+				{
+					"name": "戴仁潇",
+					"student_id": "U202414712",
+					"homepage": "https://dninelie.github.io/work/index.html"
+				},
+				{
+					"name": "袁嘉亮",
+					"student_id": "U202414737",
+					"homepage": "https://sensei2168.github.io/MYWEB/index.html"
+				},
+				{
+					"name": "武琪峻",
+					"student_id": "U202414734",
+					"homepage": "https://wuqijun123.github.io/huh/index.html"
+				},
+				{
+					"name": "贾博钧",
+					"student_id": "U202414716",
+					"homepage": "https://jbj06.github.io/zuoye/"
 				}
 			]
 		},
@@ -83,92 +144,59 @@
 			]
 		},
 		{
-			"url": "https://yanjiayi959.github.io/604web/",
-			"building": "东9舍",
-			"room_no": 604,
-			"members": [
-				{
-					"name": "汪艺彤",
-					"student_id": "U202414731",
-					"homepage": "https://w-yitong.github.io/My-Personal-Web"
-				},
-				{
-					"name": "魏琪玮",
-					"student_id": "U202414733",
-					"homepage": "https://weiqiwei7.github.io/personal-page"
-				},
-				{
-					"name": "燕佳怡",
-					"student_id": "U202414736",
-					"homepage": "https://yanjiayi959.github.io/yanjiayiWeb"
-				},
-				{
-					"name": "唐淼",
-					"student_id": "U202414729",
-					"homepage": "https://tang1661.github.io/Tm"
-				}
-			]
-		},
-		{
-			"url": "https://electricstick8.github.io/Dorm/",
+			"url": "https://luomingli4869.github.io/2407-316/",
 			"building": "东11舍",
-			"room_no": 311,
+			"room_no": 316,
 			"members": [
 				{
-					"name": "许家诚",
-					"student_id": "U202490040",
-					"homepage": "https://electricstick8.github.io/index/"
+					"name": "卢峙",
+					"student_id": "U202414722",
+					"homepage": "https://luomingli4869.github.io/luomingli/"
 				},
 				{
-					"name": "刘毅",
-					"student_id": "U202414721",
-					"homepage": "https://lyshlym.github.io/wqjs/"
+					"name": "连文捷",
+					"student_id": "U202414719",
+					"homepage": "https://lwj5181666.github.io/lwjwangye2/"
 				},
 				{
-					"name": "杜柯言",
-					"student_id": "U202414714",
-					"homepage": "https://donldtrumpcn.github.io/dukeyanintro/"
+					"name": "张树瀚",
+					"student_id": "U202414719",
+					"homepage": "https://zhang-shuhan-xin.github.io/zhs11/"
+				},
+				{
+					"name": "孙鹏云",
+					"student_id": "U202414727",
+					"homepage": "https://x3x313.github.io/xinshengshijian/"
 				}
 			]
 		},
 		{
-			"url": "https://dninelie.github.io/qinshi312/index.html",
+			"url": "https://paulkm2006.github.io/hust_freshman_dorm_homepage/",
 			"building": "东11舍",
-			"room_no": 312,
+			"room_no": 317,
 			"members": [
 				{
-					"name": "戴仁潇",
-					"student_id": "U202414712",
-					"homepage": "https://dninelie.github.io/work/index.html"
+					"name": "刘靖南",
+					"student_id": "U202414720",
+					"homepage": "https://paulkm2006.github.io/hust_freshman_practice/"
 				},
 				{
-					"name": "袁嘉亮",
-					"student_id": "U202414737",
-					"homepage": "https://sensei2168.github.io/MYWEB/index.html"
+					"name": "芦虹成",
+					"student_id": "U202414723",
+					"homepage": "https://lhc14723.github.io/lhc/"
 				},
 				{
-					"name": "武琪峻",
-					"student_id": "U202414734",
-					"homepage": "https://wuqijun123.github.io/huh/index.html"
+					"name": "董恒",
+					"student_id": "U202414713",
+					"homepage": "https://eternalsensi.github.io/"
 				},
 				{
-					"name": "贾博钧",
-					"student_id": "U202414716",
-					"homepage": "https://jbj06.github.io/zuoye/"
-				}
-			]
-		},
-		{
-			"url": "https://justin-75.github.io/myWeb/web/",
-			"building": "留学生公寓",
-			"room_no": 1,
-			"members": [
-				{
-					"name": "黄智健",
-					"student_id": "U202414735",
-					"homepage": "https://justin-75.github.io/myWeb/web/"
+					"name": "饶恒瑜",
+					"student_id": "U202414726",
+					"homepage": "https://henryrao525.github.io/rhy726.github.io/"
 				}
 			]
 		}
+
 	]
 }
