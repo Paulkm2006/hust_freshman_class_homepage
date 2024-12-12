@@ -103,6 +103,45 @@
 					"homepage": "https://donldtrumpcn.github.io/dukeyanintro/"
 				}
 			]
+		},
+		{
+			"url": "https://dninelie.github.io/qinshi312/index.html",
+			"building": "东11舍",
+			"room_no": 312,
+			"members": [
+				{
+					"name": "戴仁潇",
+					"student_id": "U202414712",
+					"homepage": "https://dninelie.github.io/work/index.html"
+				},
+				{
+					"name": "袁嘉亮",
+					"student_id": "U202414737",
+					"homepage": "https://sensei2168.github.io/MYWEB/index.html"
+				},
+				{
+					"name": "武琪峻",
+					"student_id": "U202414734",
+					"homepage": "https://wuqijun123.github.io/huh/index.html"
+				},
+				{
+					"name": "贾博钧",
+					"student_id": "U202414716",
+					"homepage": "https://jbj06.github.io/zuoye/"
+				}
+			]
+		},
+		{
+			"url": "https://justin-75.github.io/myWeb/web/",
+			"building": "东11舍",
+			"room_no": 313,
+			"members": [
+				{
+					"name": "黄智健",
+					"student_id": "U202414735",
+					"homepage": "https://justin-75.github.io/myWeb/web/"
+				}
+			]
 		}
 	]
 }
