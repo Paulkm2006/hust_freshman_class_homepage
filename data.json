@@ -30,12 +30,12 @@
 		},
 		{
 			"url": "https://justin-75.github.io/myWeb/web/",
-			"building": "留学生公寓",
-			"room_no": 1,
+			"building": "国际公寓",
+			"room_no": 725,
 			"members": [
 				{
 					"name": "黄智健",
-					"student_id": "U202414735",
+					"student_id": "I202420065",
 					"homepage": "https://justin-75.github.io/myWeb/web/"
 				}
 			]
@@ -113,6 +113,33 @@
 					"name": "黄于藩",
 					"student_id": "U202414715",
 					"homepage": ""
+				}
+			]
+		},
+		{
+			"url": "https://zhllyx.github.io/314.github.io/",
+			"building": "东11舍",
+			"room_no": 314,
+			"members": [
+				{
+					"name": "钟翰林",
+					"student_id": "U202414741",
+					"homepage": "https://zhllyx.github.io/zhllyx.github.io/index.html"
+				},
+				{
+					"name": "路庆浩",
+					"student_id": "U202414724",
+					"homepage": "https://luqhhh.github.io/"
+				},
+				{
+					"name": "肖金诺",
+					"student_id": "U202414735",
+					"homepage": "https://xiaonuo520.github.io/homework.github.io/"
+				},
+				{
+					"name": "赵智勇",
+					"student_id": "U202414740",
+					"homepage": "https://3blue1b.github.io/newone/"
 				}
 			]
 		},
